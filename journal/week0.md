@@ -21,5 +21,5 @@
 ![Image Evidence](assets/budget.png)
 
 - Created a billing alert on the AWS Console
-![Image Evidence](assets/alert.png)
+![Image Evidence](assets/alerts.png)
 
