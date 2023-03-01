@@ -31,3 +31,7 @@ The `/journal` directory contains
 - [ ] [Week 11](journal/week11.md)
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
+
+
+#### SCRATCHPAD
+docker run --rm -p 4567:4567 -it -E BACKED_URL='*' -e FRONTEND_URL='*' backend_flask
