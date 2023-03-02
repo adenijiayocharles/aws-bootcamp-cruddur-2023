@@ -6,7 +6,7 @@ class NotificationsActivities:
     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
       'handle':  'Charles Adeniji',
-      'message': 'Life is good',
+      'message': 'Life is good o',
       'created_at': (now - timedelta(days=2)).isoformat(),
       'expires_at': (now + timedelta(days=5)).isoformat(),
       'likes_count': 5,
