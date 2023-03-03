@@ -1,6 +1,8 @@
 # Week 0 — Billing and Architecture
 
 ## REQUIRED WORK
+This week I was able to watch live the initial video for this boot camp. I was able to follow along with the demos done on architectural diagrams. I was able to use the cloudshell, created an IAM user, added MFA to my root account. I was then able to setup AWS CLI on gitpod, and created organisations on AWS. I was also able to set up a budget and billing alarm too.
+
 
 ### Pre-requisites for this week
 
